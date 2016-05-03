@@ -1,4 +1,4 @@
-# Digital Acquisition Pilot Guide
+# National Week of Making website
 
 [![Dependency Status](https://gemnasium.com/badges/github.com/presidential-innovation-fellows/week-of-making.svg)](https://gemnasium.com/github.com/presidential-innovation-fellows/week-of-making)
 [![security](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master.svg)](https://hakiri.io/github/presidential-innovation-fellows/week-of-making/master)
